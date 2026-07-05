@@ -1,0 +1,12 @@
+{
+  "name": "gawk-cli",
+  "version": "0.1.0",
+  "description": "The gawk.dev live AI-ecosystem feed in your terminal. Every number traces to its source.",
+  "type": "module",
+  "bin": { "gawk": "bin/gawk.js" },
+  "files": ["bin", "lib", "README.md"],
+  "scripts": { "test": "node --test test/" },
+  "engines": { "node": ">=18" },
+  "repository": { "type": "git", "url": "https://github.com/Neelagiri65/gawk-cli" },
+  "license": "MIT"
+}
