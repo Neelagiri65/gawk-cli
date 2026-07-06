@@ -3,10 +3,10 @@
 The [gawk.dev](https://gawk.dev) live AI-ecosystem feed in your terminal.
 
 ```bash
-npx github:Neelagiri65/gawk-cli            # the curated wire, right now
-npx github:Neelagiri65/gawk-cli models     # OpenRouter top-weekly rankings
-npx github:Neelagiri65/gawk-cli tools      # tool health, vendor-declared
-npx github:Neelagiri65/gawk-cli sdk        # SDK adoption from registry counters
+npx gawk-cli            # the curated wire, right now
+npx gawk-cli models     # OpenRouter top-weekly rankings
+npx gawk-cli tools      # tool health, vendor-declared
+npx gawk-cli sdk        # SDK adoption from registry counters
 ```
 
 Flags: `--limit N` · `--type TOOL_ALERT` · `--json` (raw API response, verbatim) · `--no-color`.
