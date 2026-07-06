@@ -1,6 +1,6 @@
 {
   "name": "gawk-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The gawk.dev live AI-ecosystem feed in your terminal. Every number traces to its source.",
   "type": "module",
   "bin": {
